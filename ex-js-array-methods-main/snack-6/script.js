@@ -19,3 +19,4 @@ console.log(longestZucchini);
 const shortestZucchini = zucchine.filter(elm => elm.length < 15);
 console.log(shortestZucchini);
 
+
